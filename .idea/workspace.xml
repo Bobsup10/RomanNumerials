@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3b3d0aac-5df2-4ddc-a755-bfd964af87c6" name="Changes" comment="project">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Roman Numerials.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomanToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RomanToDecimalTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FcrvU4F5YKgyqtEs0JdGVHjJIs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RomanNumeralsTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomanNumeralsTest" />
+      <module name="Roman Numerials" />
+      <option name="PROGRAM_PARAMETERS" value="IV IX XII VII CD CM MCMLXII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToDecimal" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RomanToDecimal" />
+      <module name="Roman Numerials" />
+      <option name="PROGRAM_PARAMETERS" value="I i II ii III iii IV iv V v VI vi VII vii VIII viii IX ix X x XI xi XIV xiv XV xv XIX xix XXIX xxix XXXIV xxxiv XLIX xlix LXXXIV lxxxiv XCIV xciv XCIX xcix CCCXCIV cccxciv CDXCIV cdxciv CMXCIV cmxciv MCMLXII mcmlxii MMCDIX mmcdix MMCDXCIV mmcdxciv CMXCIV cmxciv CMXCIV cmxciv MMCMXCIX mmcmxcix MMMMCMXCIX mmmmcmxcix IIVI iivi IIIVII iiivii IIIXVIII iiixviii IXIXIX ixixix IVIXXLXCCDCM ivixxlxccdcm XXXXXXXXXX xxxxxxxxxx LXCID lxcid XMXVIVIIIIV xmxviviiiiv MXMXVIVIXII mxmxvivixii MXMXVIVIXIIVIII mxmxvivixiiviii MMCCCDLXIIIVIX mmcccdlxiiivix MMMCMCMCDIIIX mmmcmcmcdiiix MMMMMCDCDCD mmmmmcdcdcd I_am_Batman ISIS_is_not_a_valid_Roman_numeral MMMMMGood mmmmmgood MMCMLXIJMMCD mmcmlxijmmcd LXHID lxhid IVXLCDME ivxlcdme SWEET_BRUH sweet_bruh iv IV ix IX xl XL xc XC cd CD cm CM          " />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringArgsProcessor" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringArgsProcessor" />
+      <module name="Roman Numerials" />
+      <option name="PROGRAM_PARAMETERS" value="IV IX XII VII CD CM MCMLXII" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3d0aac-5df2-4ddc-a755-bfd964af87c6" name="Changes" comment="" />
+      <created>1664802445170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664802445170</updated>
+      <workItem from="1664802447548" duration="1455000" />
+      <workItem from="1665070144143" duration="1388000" />
+      <workItem from="1665147896641" duration="265000" />
+      <workItem from="1665153216767" duration="123000" />
+      <workItem from="1665153384798" duration="4103000" />
+      <workItem from="1665425869676" duration="177000" />
+      <workItem from="1665491407614" duration="3095000" />
+      <workItem from="1665671669055" duration="411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Roman_Numerials$RomanToDecimal.ic" NAME="RomanToDecimal Coverage Results" MODIFIED="1665492669173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
